@@ -62,9 +62,14 @@
 /fandom https://community.fandom.com/ja/wiki/User:Neko7sora
 
 /github-io https://neko7sora.github.io
-/github-personal https://personal.github.neko7sora.jp
+/github-personal https://personal.github.neko7sora.site
 
 /cdn https://github.com/Neko7sora/Content-Delivery-Network
 
 /.jp https://neko7sora.jp
 /.site https://neko7sora.site
+
+/example-com example.com
+/example-net example.net
+/example-org example.org
+/example-edu example.edu
