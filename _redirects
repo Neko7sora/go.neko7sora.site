@@ -69,7 +69,7 @@
 /.jp https://neko7sora.jp
 /.site https://neko7sora.site
 
-/example-com example.com
-/example-net example.net
-/example-org example.org
-/example-edu example.edu
+/example-com https://example.com
+/example-net https://example.net
+/example-org https://example.org
+/example-edu https://example.edu
