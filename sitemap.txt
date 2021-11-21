@@ -44,7 +44,7 @@ https://go.neko7sora.site/qiitadon
 https://go.neko7sora.site/github
 https://go.neko7sora.site/gitlab
 https://go.neko7sora.site/osdn
-https://go.neko7sora.site/npm~neko7sora
+https://go.neko7sora.site/npm
 
 https://go.neko7sora.site/facebook
 https://go.neko7sora.site/instagram
