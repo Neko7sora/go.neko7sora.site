@@ -8,6 +8,7 @@ https://go.neko7sora.site/revue
 https://go.neko7sora.site/newsletters
 https://go.neko7sora.site/newsletter
 https://go.neko7sora.site/zenn
+https://go.neko7sora.site/keybase
 
 https://go.neko7sora.site/atcoder
 https://go.neko7sora.site/connpass
